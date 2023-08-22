@@ -12,6 +12,15 @@ I'm currently looking for a Junior position or a internship.
 ##
 ### Technologies in progress
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
+##
+### Contacts
+<p align="start">
+  <a href="https://www.linkedin.com/in/henrique-duarte-corrêa-375015254/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp"  width="35px" style="margin: 15px;" target="blank"/>
+  </a>
+  <a href="https://www.instagram.com/_henrique_d_c/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp"  width="35px" style="margin: 15px;" />
+  </a>
+</p>
 
 
