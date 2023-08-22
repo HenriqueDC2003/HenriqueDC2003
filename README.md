@@ -1,5 +1,5 @@
 # Hey, i'm Henrique
-I'm a Web developer in progress. i'm currently studying Computer Sciences at UniLasalle, i'm a tea fan and cat lover.
+I'm Brazilian and I'm a Web developer in progress. i'm currently studying Computer Sciences at UniLasalle, i'm a tea fan and cat lover.
 I'm currently looking for a Junior position or a internship.
 
 - 🔭 I’m currently working on some projects like sites for training the languages that i know.
