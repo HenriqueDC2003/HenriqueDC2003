@@ -34,4 +34,4 @@ Studying Computer Science at UniLaSalle Canoas (6th semester). Tea fan and cat l
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueduartecorrea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/henriqueduartecorrea](https://www.linkedin.com/in/henrique-duarte-corr%C3%AAa-375015254/))
